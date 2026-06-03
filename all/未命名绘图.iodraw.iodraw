@@ -133,7 +133,7 @@
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-44" value="学&lt;div&gt;生&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="444" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="A9KMwJVpZGRA6l7rTKz0-45" value="报&lt;div&gt;修&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A9KMwJVpZGRA6l7rTKz0-45" value="住&lt;div&gt;宿&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="444" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-46" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-54" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="440" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A9KMwJVpZGRA6l7rTKz0-56" value="报&lt;div&gt;修&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="40" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
