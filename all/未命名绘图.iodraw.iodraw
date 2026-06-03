@@ -36,6 +36,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="A9KMwJVpZGRA6l7rTKz0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A9KMwJVpZGRA6l7rTKz0-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-17" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -51,8 +56,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="280" />
-              <mxPoint x="450" y="280" />
-              <mxPoint x="450" y="344" />
+              <mxPoint x="550" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
