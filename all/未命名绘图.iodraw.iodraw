@@ -58,7 +58,7 @@
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-18" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9KMwJVpZGRA6l7rTKz0-21" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A9KMwJVpZGRA6l7rTKz0-21" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A9KMwJVpZGRA6l7rTKz0-21" target="A9KMwJVpZGRA6l7rTKz0-21">
