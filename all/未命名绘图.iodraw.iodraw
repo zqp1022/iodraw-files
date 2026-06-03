@@ -35,7 +35,7 @@
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-1" value="用户信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9KMwJVpZGRA6l7rTKz0-3" value="管理员" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="A9KMwJVpZGRA6l7rTKz0-3" value="权限管理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -50,7 +50,7 @@
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-13" value="学生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9KMwJVpZGRA6l7rTKz0-15" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="A9KMwJVpZGRA6l7rTKz0-15" value="宿管" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
