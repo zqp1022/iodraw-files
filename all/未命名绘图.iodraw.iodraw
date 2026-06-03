@@ -41,7 +41,7 @@
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-5" value="住宿信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9KMwJVpZGRA6l7rTKz0-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="A9KMwJVpZGRA6l7rTKz0-7" value="系统备注" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-9" value="个人基本资料" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
