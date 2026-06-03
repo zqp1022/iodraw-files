@@ -124,7 +124,7 @@
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-41" value="宿管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="314" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A9KMwJVpZGRA6l7rTKz0-42" value="在&lt;div&gt;住&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A9KMwJVpZGRA6l7rTKz0-42" value="宿&lt;div&gt;舍&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="444" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="A9KMwJVpZGRA6l7rTKz0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A9KMwJVpZGRA6l7rTKz0-42" target="A9KMwJVpZGRA6l7rTKz0-42">
